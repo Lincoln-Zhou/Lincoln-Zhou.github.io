@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Developer, student
 
-### More Information
+Prefer programming in Python/C++
 
-A place to include any other types of information that you'd like to include about yourself.
+Learning Swift, Java and GIS
+
+Having affection for Apple ecosystem, technology and gaming
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[LincolnZh@protonmail.com](mailto:LincolnZh@protonmail.com)
