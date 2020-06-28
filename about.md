@@ -10,7 +10,7 @@ Prefer programming in Python/C++
 
 Learning Swift, Java and GIS
 
-Having affection for Apple ecosystem, technology and gaming
+Have affection for Apple ecosystem, technology and gaming
 
 ### Contact me
 
