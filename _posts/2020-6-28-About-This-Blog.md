@@ -3,8 +3,9 @@ layout: post
 title: About This Blog
 ---
 
-## Introduction
+A brief introduction to the prupose of this blog
 
+## Manifesto
 This blog is a place to share my personal ideas and perspectives. I write articles on programming, Apple ecosystem, hardware and so on.
 
 This is a technical blog, all posts here focus on technology, nothing else.
