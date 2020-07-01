@@ -81,7 +81,7 @@ Next, upload the file to `yourName.github.io/_posts` on GitHub, commit changes, 
 
 
 
-Now wait a moment, and the post you just upload will be accessible from the index page of your personal blog
+Now wait a moment, and the post you just upload will be accessible from the index page of your personal blog.
 
 
 
