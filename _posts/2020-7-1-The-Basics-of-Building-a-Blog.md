@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Basics of Building a Blog
+---
+
 In this post, I will briefly introduce ways to bulid a free personal blog using GitHub Pages and jekyll framework.
 
 
