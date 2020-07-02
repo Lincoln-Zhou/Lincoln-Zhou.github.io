@@ -17,7 +17,7 @@ After reading this, you will learn how to:
 
 
 
-## Customize with the _config.yml
+## Customize the Blog with _config.yml
 
 In the root directory of your GitHub Pages project, you should find the `_config.yml`   file. This is where you control website properties in jekyll, and is exactly what we need to complete the first two tasks.
 
