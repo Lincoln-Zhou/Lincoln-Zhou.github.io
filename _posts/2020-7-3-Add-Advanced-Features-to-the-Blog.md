@@ -26,7 +26,7 @@ DISQUS provides your blog with a comment system, and is built inside jekyll. You
 disqus:
 ```
 
-This is where you can enable DISQUS in your blog. But first, you need to get your blog a short name.
+This is where you can enable DISQUS in your blog. But first, you need to get your blog a shortname.
 
 
 
