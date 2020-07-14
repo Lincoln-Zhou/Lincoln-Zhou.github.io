@@ -9,7 +9,7 @@ name: Lincoln Zhou
 description: Developer's Personal Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {{ site.baseurl }}/images/myLogo.png
+avatar: https://raw.githubusercontent.com/Lincoln-Zhou/Lincoln-Zhou.github.io/master/images/myLogo.png
 
 #
 # Flags below are optional
