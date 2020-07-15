@@ -85,4 +85,4 @@ A notice here. In WWDC 2020, Apple announces Apple Silicon. Acoording to plan, t
 
 
 
-***The CPU benchmark appeared in this post are mainly from [cpubenchmark.net](https://www.cpubenchmark.net), price data are from [Apple US](https://www.apple.com/).***
+***The CPU benchmarks appeared in this post are mainly from [cpubenchmark.net](https://www.cpubenchmark.net), price data are from [Apple US](https://www.apple.com/).***
