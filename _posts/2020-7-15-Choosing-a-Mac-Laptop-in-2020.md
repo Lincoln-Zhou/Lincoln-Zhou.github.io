@@ -61,7 +61,7 @@ Also notice, you can still choose the 8th generation model, starting from 1299 U
 
 
 
-MacBook Pro 13 inch suits those who have potable needs while unwilling to sacrifice too much performence. It's also relatively cheap, good for those with limited budgets.
+MacBook Pro 13 inch suits those who have portable needs while unwilling to sacrifice too much performence. It's also relatively cheap, good for those with limited budgets.
 
 ---
 
