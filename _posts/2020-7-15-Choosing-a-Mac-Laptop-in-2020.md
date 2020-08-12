@@ -73,7 +73,7 @@ To be honest, if you're a heavy computer user, the Air version should really be 
 
 ![image](https://raw.githubusercontent.com/Lincoln-Zhou/Lincoln-Zhou.github.io/master/images/Picture5.png)
 
-Right two are the CPUs MacBook Air use. With their TDP not higher than 10W, which means longer battery time. Good news for those who only use Mac to perform light tasks or frequently carry it out.
+Right two are the CPUs MacBook Air use, with their TDP not higher than 10W, which means longer battery time. Good news for those who only use Mac to perform light tasks or frequently carry it out.
 
 
 
