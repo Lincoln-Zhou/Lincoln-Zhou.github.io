@@ -3,7 +3,7 @@ layout: post
 title: About This Blog
 ---
 
-A brief introduction to the prupose of this blog
+A brief introduction to the purpose of this blog
 
 ## Introduction
 This blog is a place to share my personal ideas and perspectives. I write articles on programming, Apple ecosystem, hardware and so on.
