@@ -17,7 +17,7 @@ This blog is hosted on [GitHub Pages](https://pages.github.com/), using [jekyll]
 ## Legal Notice
 All rights reserved, any kind of copying, pirating or reposting is prohibited.
 
-This blog uses [Disqus](https://disqus.com/) comment system, all comments comply with regulations of the United States, and will be removed if otherwise.
+This blog uses [Disqus](https://disqus.com/) comment system, all comments should comply with regulations of the United States, and will be removed if otherwise.
 
 This blog uses several third parties' logo designs, including the Swift logo, GitHub logo, StackOverflow logo, etc. The blog doesn't have and doesn't intend to show affiliation to the respective holders of these logos.
 
